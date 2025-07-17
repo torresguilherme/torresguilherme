@@ -1,6 +1,5 @@
 # Guilherme Torres
 
-[![Status](https://img.shields.io/badge/🎓-ADS%20%7C%20UDF-blue?style=flat-square)](#)
 [![Local](https://img.shields.io/badge/📍-Brasília%2C%20Brasil-green?style=flat-square)](#)
 [![Área](https://img.shields.io/badge/💻-Backend%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=flat-square)](#)
 
@@ -23,7 +22,6 @@
 
 Desenvolvedor backend com mentalidade de automação, foco em infraestrutura em nuvem e cibersegurança.  
 Entusiasta de sistemas distribuídos, pipelines CI/CD e segurança ofensiva/defensiva.  
-Atualmente, estagiário no Ministério de Portos e Aeroportos e estudante de Análise e Desenvolvimento de Sistemas.
 
 ---
 
