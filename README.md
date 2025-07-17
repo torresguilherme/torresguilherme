@@ -1,32 +1,36 @@
-<h1 align="left">Hi. I'm Guilherme!</h1>
+# Guilherme Torres
 
-###
+[![Status](https://img.shields.io/badge/🎓-ADS%20%7C%20UDF-blue?style=flat-square)](#)
+[![Local](https://img.shields.io/badge/📍-Brasília%2C%20Brasil-green?style=flat-square)](#)
+[![Área](https://img.shields.io/badge/💻-Backend%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=flat-square)](#)
 
-<p align="center">Cyber sec | Pentest | Networks</p>
+---
 
-###
+## 🚀 Stack & Ferramentas
 
-<h2 align="left">About me</h2>
+[![Python](https://img.shields.io/badge/-Python-3674A5?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![n8n](https://img.shields.io/badge/-n8n-ef6834?style=for-the-badge&logo=n8n&logoColor=white)](#)
+[![Cybersecurity](https://img.shields.io/badge/-Cybersec-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 
-###
+---
 
-<p align="left">future owner of the internet.</p>
+## 👨‍💻 Sobre mim
 
-###
+Desenvolvedor backend com mentalidade de automação, foco em infraestrutura em nuvem e cibersegurança.  
+Entusiasta de sistemas distribuídos, pipelines CI/CD e segurança ofensiva/defensiva.  
+Atualmente, estagiário no Ministério de Portos e Aeroportos e estudante de Análise e Desenvolvimento de Sistemas.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+<p align="center">
+  <img src="./mmy.png" alt="Guilherme lendo Clean Code" width="500"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
+<p align="center">
+  <em>"Segurança e desempenho andam juntos. Código limpo, nuvem leve e sistema blindado."</em>
+</p>
