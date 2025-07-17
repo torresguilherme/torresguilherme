@@ -1,5 +1,5 @@
-# Guilherme Torres
 
+# Guilherme Torres
 [![Local](https://img.shields.io/badge/📍-Brasília%2C%20Brasil-green?style=flat-square)](#)
 [![Área](https://img.shields.io/badge/💻-Backend%20%7C%20Cloud%20%7C%20Cybersecurity-black?style=flat-square)](#)
 
@@ -26,9 +26,9 @@ Entusiasta de sistemas distribuídos, pipelines CI/CD e segurança ofensiva/defe
 ---
 
 <p align="center">
-  <img src="./mmy.png" alt="Guilherme lendo Clean Code" width="500"/>
+ <img width="750" height="700" alt="mmy" src="https://github.com/user-attachments/assets/4b0c4cbb-e898-4f32-af64-edab061c13d5" />
 </p>
 
 <p align="center">
-  <em>"Segurança e desempenho andam juntos. Código limpo, nuvem leve e sistema blindado."</em>
+  <em>"Even Michael Myers took a break from killing to murder some bad code."</em>
 </p>
